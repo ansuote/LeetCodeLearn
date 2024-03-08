@@ -1,6 +1,8 @@
-package sort;
+package sort.n2;
 
 import java.util.Arrays;
+
+import sort.ISort;
 
 /*
  * @Descripttion: 插入排序

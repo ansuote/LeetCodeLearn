@@ -5,9 +5,11 @@
  * @LastEditors: ansuote
  * @LastEditTime: 2024-03-08 12:57:24
  */
-package sort;
+package sort.n2;
 
 import java.util.Arrays;
+
+import sort.ISort;
 
 public class SelectionSort implements ISort {
 

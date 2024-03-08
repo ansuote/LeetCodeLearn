@@ -3,9 +3,11 @@
  * @Author: ansuote
  * @Date: 2024-03-08 13:50:19
  * @LastEditors: ansuote
- * @LastEditTime: 2024-03-08 13:59:56
+ * @LastEditTime: 2024-03-08 14:52:48
  */
-package sort;
+package sort.nlogn;
+
+import sort.ISort;
 
 public class MergeSort implements ISort {
 

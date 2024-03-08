@@ -6,9 +6,9 @@
  * @LastEditTime: 2024-03-08 14:00:09
  */
 
-import sort.BubbleSort;
-import sort.InsertSort;
-import sort.SelectionSort;
+import sort.n2.BubbleSort;
+import sort.n2.InsertSort;
+import sort.n2.SelectionSort;
 import utils.SortUtils;
 
 public class ClassMain {

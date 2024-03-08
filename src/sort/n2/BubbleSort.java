@@ -3,11 +3,13 @@
  * @Author: ansuote
  * @Date: 2024-03-07 19:08:46
  * @LastEditors: ansuote
- * @LastEditTime: 2024-03-08 11:10:49
+ * @LastEditTime: 2024-03-08 14:52:25
  */
-package sort;
+package sort.n2;
 
 import java.util.Arrays;
+
+import sort.ISort;
 
 public class BubbleSort implements ISort {
 
