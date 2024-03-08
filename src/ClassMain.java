@@ -9,6 +9,7 @@
 import sort.n2.BubbleSort;
 import sort.n2.InsertSort;
 import sort.n2.SelectionSort;
+import sort.nlogn.QuickSort;
 import utils.SortUtils;
 
 public class ClassMain {
@@ -16,6 +17,7 @@ public class ClassMain {
         int[] nums = new int[] { 1, 24, 5, 3, 23, 41, 2, 1, 8, 3, 0 };
         // SortUtils.sort(nums, BubbleSort.class);
         // SortUtils.sort(nums, InsertSort.class);
-        SortUtils.sort(nums, SelectionSort.class);
+        // SortUtils.sort(nums, SelectionSort.class);
+        SortUtils.sort(nums, QuickSort.class);
     }
 }
