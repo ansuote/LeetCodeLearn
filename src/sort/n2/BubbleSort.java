@@ -3,7 +3,7 @@
  * @Author: ansuote
  * @Date: 2024-03-07 19:08:46
  * @LastEditors: ansuote
- * @LastEditTime: 2024-03-08 14:52:25
+ * @LastEditTime: 2024-03-13 20:22:41
  */
 package sort.n2;
 
@@ -23,7 +23,8 @@ public class BubbleSort implements ISort {
 
         int[] nums = Arrays.copyOf(originNum, n);
 
-        for (int i = 0; i <= n - 1; i++) {
+        for (int i = 0; i < n - 1; i++) {
+            //标识没有重新交换位置
             boolean flag = true;
 
             for (int j = 0; j < n - i - 1; j++) {
@@ -35,6 +36,7 @@ public class BubbleSort implements ISort {
                 }
             }
 
+            //如果都没有重新交换位置，则证明已经提前排序完
             if (flag) {
                 break;
             }
