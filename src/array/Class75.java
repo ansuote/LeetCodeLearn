@@ -13,6 +13,7 @@ public class Class75 {
         int index = 0;
         int right = nums.length - 1;
 
+        // 里面要判断 <= ，不然可能会导致最后一个元素漏掉排序
         while (index <= right) {
             int indexValue = nums[index];
             if (indexValue == 0) {

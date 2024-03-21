@@ -1,5 +1,3 @@
-package array;
-
 /*
  * @Descripttion: 移动零
  * 
@@ -9,8 +7,11 @@ package array;
  * 
  * @LastEditors: ansuote
  * 
- * @LastEditTime: 2024-03-06 14:28:28
+ * @LastEditTime: 2024-03-21 17:07:50
  */
+
+package array;
+
 public class Class283 {
 
     public void moveZeroes(int[] nums) {
