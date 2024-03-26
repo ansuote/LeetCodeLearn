@@ -1,34 +1,18 @@
-package other;
+package binaryTree;
 /*
- * @Descripttion: 
+ * @Descripttion: 对称二叉树
  * @Author: ansuote
  * @Date: 2024-02-21 18:29:08
  * @LastEditors: ansuote
- * @LastEditTime: 2024-03-07 19:37:45
+ * @LastEditTime: 2024-03-26 10:21:39
  */
+
+import base.TreeNode;
 
 // import java.util.ArrayDeque;
 // import java.util.Deque;
 
 public class Class101 {
-    public static class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode() {
-        }
-
-        TreeNode(int val) {
-            this.val = val;
-        }
-
-        TreeNode(int val, TreeNode left, TreeNode right) {
-            this.val = val;
-            this.left = left;
-            this.right = right;
-        }
-    }
 
     public boolean isSymmetric(TreeNode root) {
         if (null == root) {

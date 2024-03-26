@@ -1,28 +1,19 @@
-package other;
+/*
+ * @Descripttion: 二叉树的中序遍历
+ * @Author: ansuote
+ * @Date: 2024-02-16 20:24:58
+ * @LastEditors: ansuote
+ * @LastEditTime: 2024-03-26 10:21:31
+ */
+package binaryTree;
+
 import java.util.ArrayList;
 import java.util.List;
 
+import base.TreeNode;
+
 public class Class94 {
     private List<Integer> result = new ArrayList<>();
-
-    public static class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode() {
-        }
-
-        TreeNode(int val) {
-            this.val = val;
-        }
-
-        TreeNode(int val, TreeNode left, TreeNode right) {
-            this.val = val;
-            this.left = left;
-            this.right = right;
-        }
-    }
 
     public static void main(String[] args) {
 
