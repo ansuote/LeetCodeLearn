@@ -1,15 +1,10 @@
 /*
- * @Descripttion: 移动零
- * 
+ * @Descripttion: [移动零](https://leetcode.cn/problems/move-zeroes/description/)
  * @Author: ansuote
- * 
  * @Date: 2024-03-06 13:31:11
- * 
  * @LastEditors: ansuote
- * 
- * @LastEditTime: 2024-03-21 17:07:50
+ * @LastEditTime: 2024-03-27 10:16:12
  */
-
 package array;
 
 public class Class283 {

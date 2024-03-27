@@ -1,7 +1,7 @@
 package other;
 
 /*
- * @Descripttion: 
+ * @Descripttion: [两数之和](https://leetcode.cn/problems/two-sum/)
  * @Author: ansuote
  * @Date: 2024-01-26 20:17:34
  * @LastEditors: ansuote

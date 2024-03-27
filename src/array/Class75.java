@@ -1,8 +1,12 @@
+/*
+ * @Descripttion: [颜色分类](https://leetcode.cn/problems/sort-colors/)
+ * @Author: ansuote
+ * @Date: 2024-03-06 15:55:24
+ * @LastEditors: ansuote
+ * @LastEditTime: 2024-03-27 10:15:11
+ */
 package array;
 
-/**
- * 颜色分类
- */
 public class Class75 {
     public void sortColors(int[] nums) {
         if (null == nums || nums.length == 0) {

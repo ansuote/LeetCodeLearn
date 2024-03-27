@@ -1,9 +1,9 @@
 /*
- * @Descripttion: 模拟行走机器人
+ * @Descripttion: [模拟行走机器人](https://leetcode.cn/problems/walking-robot-simulation/)
  * @Author: ansuote
  * @Date: 2024-03-21 18:44:48
  * @LastEditors: ansuote
- * @LastEditTime: 2024-03-21 19:36:26
+ * @LastEditTime: 2024-03-27 10:21:22
  */
 package hash;
 

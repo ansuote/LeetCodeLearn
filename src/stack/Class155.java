@@ -1,9 +1,9 @@
 /*
- * @Descripttion: 最小栈
+ * @Descripttion: [最小栈](https://leetcode.cn/problems/min-stack/)
  * @Author: ansuote
  * @Date: 2024-03-14 17:04:39
  * @LastEditors: ansuote
- * @LastEditTime: 2024-03-14 17:13:27
+ * @LastEditTime: 2024-03-27 10:26:58
  */
 package stack;
 

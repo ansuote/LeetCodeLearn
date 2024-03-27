@@ -1,9 +1,9 @@
 /*
- * @Descripttion: 接雨水
+ * @Descripttion: [接雨水](https://leetcode.cn/problems/trapping-rain-water/)
  * @Author: ansuote
  * @Date: 2024-03-14 18:40:20
  * @LastEditors: ansuote
- * @LastEditTime: 2024-03-14 19:31:04
+ * @LastEditTime: 2024-03-27 10:25:37
  */
 package stack;
 

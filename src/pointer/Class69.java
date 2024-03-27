@@ -1,9 +1,9 @@
 /*
- * @Descripttion: x的平方根
+ * @Descripttion: [x的平方根](https://leetcode.cn/problems/sqrtx/description/)
  * @Author: ansuote
  * @Date: 2024-03-22 19:53:30
  * @LastEditors: ansuote
- * @LastEditTime: 2024-03-22 20:22:05
+ * @LastEditTime: 2024-03-27 10:23:58
  */
 package pointer;
 

@@ -1,5 +1,5 @@
 /*
- * @Descripttion: 柱形图中最大的矩形
+ * @Descripttion: [柱形图中最大的矩形](https://leetcode.cn/problems/largest-rectangle-in-histogram/)
  * @Author: ansuote
  * @Date: 2024-03-15 10:35:57
  * @LastEditors: ansuote

@@ -1,9 +1,9 @@
 /*
- * @Descripttion: 滑动窗口最大值
+ * @Descripttion: [滑动窗口最大值](https://leetcode.cn/problems/sliding-window-maximum/description/)
  * @Author: ansuote
  * @Date: 2024-03-15 15:56:00
  * @LastEditors: ansuote
- * @LastEditTime: 2024-03-15 16:58:51
+ * @LastEditTime: 2024-03-27 10:18:52
  */
 
 package deque;

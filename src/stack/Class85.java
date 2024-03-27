@@ -1,5 +1,5 @@
 /*
- * @Descripttion: 最大矩形
+ * @Descripttion: [最大矩形](https://leetcode.cn/problems/maximal-rectangle/)
  * @Author: ansuote
  * @Date: 2024-03-15 11:09:28
  * @LastEditors: ansuote

@@ -1,6 +1,6 @@
 package other;
 /*
- * @Descripttion: class09 -- 回文数
+ * @Descripttion: [回文数](https://leetcode.cn/problems/palindrome-number/)
  * @Author: ansuote
  * @Date: 2024-02-13 18:03:35
  * @LastEditors: ansuote

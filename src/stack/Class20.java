@@ -1,9 +1,9 @@
 /*
- * @Descripttion: 有效括号
+ * @Descripttion: [有效括号](https://leetcode.cn/problems/valid-parentheses/)
  * @Author: ansuote
  * @Date: 2024-03-14 15:35:46
  * @LastEditors: ansuote
- * @LastEditTime: 2024-03-14 15:49:18
+ * @LastEditTime: 2024-03-27 10:25:18
  */
 package stack;
 

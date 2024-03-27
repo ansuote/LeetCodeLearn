@@ -1,9 +1,9 @@
 /*
- * @Descripttion: 验证回文串
+ * @Descripttion: [验证回文串](https://leetcode.cn/problems/valid-palindrome/)
  * @Author: ansuote
  * @Date: 2024-03-22 19:22:52
  * @LastEditors: ansuote
- * @LastEditTime: 2024-03-22 19:41:15
+ * @LastEditTime: 2024-03-27 10:24:15
  */
 package pointer;
 

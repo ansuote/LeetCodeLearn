@@ -1,5 +1,5 @@
 /*
- * @Descripttion: 寻找重复数
+ * @Descripttion: [寻找重复数](https://leetcode.cn/problems/find-the-duplicate-number/)
  * @Author: ansuote
  * @Date: 2024-03-22 19:05:38
  * @LastEditors: ansuote

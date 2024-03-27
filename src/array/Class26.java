@@ -1,5 +1,5 @@
 /*
- * @Descripttion: 删除有序数组中的重复项
+ * @Descripttion: [删除有序数组中的重复项](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/)
  * @Author: ansuote
  * @Date: 2024-03-06 15:55:24
  * @LastEditors: ansuote

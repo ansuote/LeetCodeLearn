@@ -1,9 +1,9 @@
 /*
- * @Descripttion: 子域名访问次数
+ * @Descripttion: [子域名访问次数](https://leetcode.cn/problems/subdomain-visit-count/description/)
  * @Author: ansuote
  * @Date: 2024-03-22 10:49:31
  * @LastEditors: ansuote
- * @LastEditTime: 2024-03-22 13:52:45
+ * @LastEditTime: 2024-03-27 10:20:12
  */
 package hash;
 

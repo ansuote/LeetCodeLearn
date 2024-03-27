@@ -1,9 +1,9 @@
 /*
- * @Descripttion: 删除排序链表中的重复元素 II
+ * @Descripttion: [删除排序链表中的重复元素 II](https://leetcode.cn/problems/remove-duplicates-from-sorted-list-ii/)
  * @Author: ansuote
  * @Date: 2024-03-13 19:30:10
  * @LastEditors: ansuote
- * @LastEditTime: 2024-03-13 19:39:22
+ * @LastEditTime: 2024-03-27 10:24:49
  */
 package recursive;
 

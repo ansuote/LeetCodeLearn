@@ -1,9 +1,9 @@
 /*
- * @Descripttion: 数组的度
+ * @Descripttion: [数组的度](https://leetcode.cn/problems/degree-of-an-array/)
  * @Author: ansuote
  * @Date: 2024-03-21 20:06:26
  * @LastEditors: ansuote
- * @LastEditTime: 2024-03-21 20:23:08
+ * @LastEditTime: 2024-03-27 10:19:50
  */
 package hash;
 
