@@ -1,11 +1,11 @@
-package other;
+package hash;
 
 /*
  * @Descripttion: [两数之和](https://leetcode.cn/problems/two-sum/)
  * @Author: ansuote
  * @Date: 2024-01-26 20:17:34
  * @LastEditors: ansuote
- * @LastEditTime: 2024-02-13 18:03:07
+ * @LastEditTime: 2024-03-28 16:44:16
  */
 import java.util.Arrays;
 import java.util.HashMap;
